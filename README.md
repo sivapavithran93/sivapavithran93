@@ -23,7 +23,7 @@ I am an aspiring Data Analyst passionate about turning data into actionable insi
 <img src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png" width="100"/>
 <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="100"/>
-<img src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ" width="100"/>
+<img src="https://camo.githubusercontent.com/3eed28e026e4e0220f99e2f4c8a517fcb3a30a1b944c528efc9533ff7840435f/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" width="100"/>
 <img src="https://pyfi.com/cdn/shop/articles/seaborn.webp?v=1711983007&width=533" width="100"/>
 <img src="https://camo.githubusercontent.com/88216f00a86d5a33a30e6d6033ccaf6721472548eee37d42b84ef58b88a291ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4879706f7468657369735f54657374696e672d3030333336363f7374796c653d666f722d7468652d6261646765266c6f676f3d73746174697374696373266c6f676f436f6c6f723d7768697465" width="100"/>
 <div id="header" align="center">
