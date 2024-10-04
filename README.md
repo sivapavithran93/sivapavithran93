@@ -14,7 +14,8 @@ I am an aspiring Data Analyst passionate about turning data into actionable insi
 😄 Pronouns: He/Him
 
 
-💻 Skills
+💻 Skills:
+
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
