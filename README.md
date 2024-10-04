@@ -16,7 +16,7 @@ I am an aspiring Data Analyst passionate about turning data into actionable insi
 
 💻 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sql,tableau,python&perline=10)](https://skillicons.dev)
 
 
 
