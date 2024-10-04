@@ -33,4 +33,9 @@ I am an aspiring Data Analyst passionate about turning data into actionable insi
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="100" style="display:inline-block;"> <img src="https://camo.githubusercontent.com/4ff9a29eb3e9162f995053d237ea62eb0becdd860a31ba8bf3ba2bae222adef5/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" width="100" style="display:inline-block;">
 
 
+<div style="display: flex; align-items: center;">
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="100" style="margin-right: 10px;">
+  <img src="https://camo.githubusercontent.com/4ff9a29eb3e9162f995053d237ea62eb0becdd860a31ba8bf3ba2bae222adef5/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" width="100">
+</div>
+
 
