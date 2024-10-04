@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 🌟 About Me
 
 I am an aspiring Data Analyst passionate about turning data into actionable insights. My journey in the world of data involves a blend of statistical analysis, machine learning, and data visualization to solve complex problems and make data-driven decisions.
