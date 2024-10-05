@@ -48,9 +48,6 @@ Here are a few projects I've worked on:
 - [Superstore Sales and Profit Analysis Dashboard](https://github.com/sivapavithran93/Superstore-Sales-and-Profit-Analysis-Dashboard): Created an interactive dashboard to analyze and visualize sales and profit data from the Superstore Dataset, enabling stakeholders to make data-driven decisions and improve business insights.
 - [Covid-19 Outbreak Analysis and Visualization Dashboard for India](https://github.com/sivapavithran93/Covid-19-Outbreak-Analysis-and-Visualization-Dashboard-for-India): Created a comprehensive dashboard to analyze and visualize Covid-19 data in India, providing actionableinsights for stakeholders to track the spread of the pandemic and inform their response. 
 - [Netflix Data Exploration](https://github.com/sivapavithran93/Netflix-Data-Exploration): Analyzing Netflix’s dataset to uncover viewing patterns, popular genres, and user preferences using Python libraries such as Pandas and Matplotlib.
-- Aerofit Business Case Study: Developing customer profiles for AeroFit treadmill users to optimize marketing strategies and increase conversion rates using Python.
-- Walmart Business Case Study: Analyzing Walmart’s transaction data to guide targeted marketing strategies and optimize revenue estimates using statistical methods.
-- Yulu Hypothesis Testing Case Study: Conducting hypothesis testing on Yulu’s bike-sharing data to evaluate business strategies and operational decisions using statistical analysis.
 
 ## 📫 Contact Me
 
