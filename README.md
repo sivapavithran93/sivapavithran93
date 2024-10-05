@@ -44,7 +44,7 @@
 
 Here are a few projects I've worked on:
 
-- Brazilian Retailer Data Analysis Project: Analyzing Brazil’s e-commerce data to identify trends, customer behavior, and potential business opportunities using advanced statistical methods and data visualization tools.
+- [Brazilian Retailer Data Analysis Project](https://github.com/sivapavithran93/Brazilian-Retailer-Data-Analysis): Analyzing Brazil’s e-commerce data to identify trends, customer behavior, and potential business opportunities using advanced statistical methods and data visualization tools.
 - Superstore Sales and Profit Analysis Dashboard: Created an interactive dashboard to analyze and visualize sales and profit data from the Superstore Dataset, enabling stakeholders to make data-driven decisions and improve business insights.
 - Covid-19 Outbreak Analysis and Visualization Dashboard for India: Created a comprehensive dashboard to analyze and visualize Covid-19 data in India, providing actionableinsights for stakeholders to track the spread of the pandemic and inform their response. 
 - Netflix Data Exploration: Analyzing Netflix’s dataset to uncover viewing patterns, popular genres, and user preferences using Python libraries such as Pandas and Matplotlib.
