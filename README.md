@@ -10,7 +10,7 @@
 
 💬 Ask me about data analysis, visualization.
 
-📫 How to reach me: [Gmail](mailto:sivapavithran93@gmail.com) | [LinkedIn](www.linkedin.com/in/pavithran93)
+📫 How to reach me: [Gmail](mailto:sivapavithran93@gmail.com) | [LinkedIn](www.linkedin.com/in/pavithran93) 
 
 😄 Pronouns: He/Him
 
@@ -58,6 +58,7 @@ Feel free to reach out to me through any of the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pavithran93)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivapavithran93@gmail.com)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/pavithran.s7555/vizzes)
 
 ---
 
