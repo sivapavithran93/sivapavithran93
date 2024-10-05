@@ -60,6 +60,6 @@ Feel free to reach out to me through any of the following platforms:
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=sivapavithran93&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivapavithran93&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivapavithran93&langs_count=8&theme=tokyonight)
 
 
