@@ -44,3 +44,15 @@
 Here are a few projects I've worked on:
 
 - Brazilian Retailer Data Analysis Project: Analyzing Brazil’s e-commerce data to identify trends, customer behavior, and potential business opportunities using advanced statistical methods and data visualization tools.
+- Netflix Data Exploration: Analyzing Netflix’s dataset to uncover viewing patterns, popular genres, and user preferences using Python libraries such as Pandas and Matplotlib.
+- Aerofit Business Case Study: Developing customer profiles for AeroFit treadmill users to optimize marketing strategies and increase conversion rates using Python.
+- Walmart Business Case Study: Analyzing Walmart’s transaction data to guide targeted marketing strategies and optimize revenue estimates using statistical methods.
+- Yulu Hypothesis Testing Case Study: Conducting hypothesis testing on Yulu’s bike-sharing data to evaluate business strategies and operational decisions using statistical analysis.
+
+## 📫 Contact Me
+
+Feel free to reach out to me through any of the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pavithran93)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivapavithran93@gmail.com)
+
