@@ -9,7 +9,7 @@
 
 💬 Ask me about data analysis, visualization.
 
-📫 How to reach me: sivapavithran93@gmail.com | www.linkedin.com/in/pavithran93
+📫 How to reach me: [sivapavithran93@gmail.com](mailto:sivapavithran93@gmail.com) | [LinkedIn](www.linkedin.com/in/pavithran93)
 
 😄 Pronouns: He/Him
 
@@ -43,4 +43,4 @@
 
 Here are a few projects I've worked on:
 
-Brazilian Retailer Data Analysis Project: Analyzing Brazil’s e-commerce data to identify trends, customer behavior, and potential business opportunities using advanced statistical methods and data visualization tools.
+- Brazilian Retailer Data Analysis Project: Analyzing Brazil’s e-commerce data to identify trends, customer behavior, and potential business opportunities using advanced statistical methods and data visualization tools.
