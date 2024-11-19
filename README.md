@@ -49,6 +49,7 @@ Here are a few projects I've worked on:
 - [Covid-19 Outbreak Analysis and Visualization Dashboard for India](https://github.com/sivapavithran93/Covid-19-Outbreak-Analysis-and-Visualization-Dashboard-for-India): Created a comprehensive dashboard to analyze and visualize Covid-19 data in India, providing actionableinsights for stakeholders to track the spread of the pandemic and inform their response. 
 - [Netflix Data Exploration](https://github.com/sivapavithran93/Netflix-Data-Exploration): Analyzing Netflix’s dataset to uncover viewing patterns, popular genres, and user preferences using Python libraries such as Pandas and Matplotlib.
 - [Aerofit Business Case Study Descriptive Statistics & Probability](https://github.com/sivapavithran93/Aerofit-Business-Case-Study-Descriptive-Statistics-Probability): Developing customer profiles for AeroFit treadmill users to optimize marketing strategies and increase conversion rates using Python.
+- [Walmart Business Case Study](https://github.com/sivapavithran93/Walmart-Black-Friday-Customer-Purchase-Analysis): Analyzing Walmart’s transaction data to guide targeted marketing strategies and optimize revenue estimates using statistical methods.
 
 ## 📫 Contact Me
 
