@@ -55,6 +55,8 @@ Here are a few projects I've worked on:
 
 Feel free to reach out to me through any of the following platforms:
 
+[![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.datascienceportfol.io/sivapavithran93
+)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pavithran93)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivapavithran93@gmail.com)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/pavithran.s7555/vizzes)
@@ -63,5 +65,6 @@ Feel free to reach out to me through any of the following platforms:
 
 ![](https://github-readme-stats.vercel.app/api?username=sivapavithran93&show_icons=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivapavithran93&langs_count=8&theme=tokyonight)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sivapavithran93&theme=tokyonight&hide_border=true">
+[![Pavithran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sivapavithran93&bg_color=2d2d46&color=00b5b5&line=d76b00&point=5c4fd7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
