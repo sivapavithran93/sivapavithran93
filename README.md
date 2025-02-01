@@ -34,6 +34,8 @@
 
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="100" height =" 30 ">
 
+  <img src="https://image.pngaaa.com/125/1971125-middle.png" alt="Scipy Logo" width="100" height =" 30 ">
+
   <img src="https://img.shields.io/badge/Statistical_Analysis-009999?style=for-the-badge&logo=statistics&logoColor=white" alt="Statistical Analysis Logo" width="100" height="30">
 
   <img src="https://img.shields.io/badge/Hypothesis_Testing-003366?style=for-the-badge&logo=statistics&logoColor=white" alt="Hypothesis Testing Logo" width="100" height="30">
@@ -50,7 +52,7 @@ Here are a few projects I've worked on:
 - **[Netflix Data Exploration](https://github.com/sivapavithran93/Netflix-Data-Exploration):** Analyzing Netflix’s dataset to uncover viewing patterns, popular genres, and user preferences using Python libraries such as Pandas and Matplotlib.
 - **[Aerofit Business Case Study Descriptive Statistics & Probability](https://github.com/sivapavithran93/Aerofit-Business-Case-Study-Descriptive-Statistics-Probability):** Developing customer profiles for AeroFit treadmill users to optimize marketing strategies and increase conversion rates using Python.
 - **[Walmart Black Friday Customer Purchase Analysis](https://github.com/sivapavithran93/Walmart-Black-Friday-Customer-Purchase-Analysis):** Analyzing Walmart’s transaction data to guide targeted marketing strategies and optimize revenue estimates using statistical methods.
-
+- **[Yulu Business Case Study - Hypothesis Testing](https://github.com/sivapavithran93/Yulu-Business-Case-Study---Hypothesis-Testing):** Conducting hypothesis testing on Yulu’s bike-sharing data to evaluate business strategies and operational decisions using statistical analysis.
 ## 📫 Contact Me
 
 Feel free to reach out to me through any of the following platforms:
