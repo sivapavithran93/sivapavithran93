@@ -34,7 +34,7 @@
 
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="100" height =" 30 ">
 
-  <img src="https://image.pngaaa.com/125/1971125-middle.png" alt="Scipy Logo" width="100" height =" 30 ">
+  <img src="https://irp.cdn-website.com/2e4f7a0c/dms3rep/multi/scipy+logo.png" alt="Scipy Logo" width="100" height =" 30 ">
 
   <img src="https://img.shields.io/badge/Statistical_Analysis-009999?style=for-the-badge&logo=statistics&logoColor=white" alt="Statistical Analysis Logo" width="100" height="30">
 
