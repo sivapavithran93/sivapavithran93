@@ -46,13 +46,17 @@
 
 Here are a few projects I've worked on:
 
-- **[Brazilian Retailer Data Analysis Project](https://github.com/sivapavithran93/Brazilian-Retailer-Data-Analysis):** Analyzing Brazil’s e-commerce data to identify trends, customer behavior, and potential business opportunities using advanced statistical methods and data visualization tools.
-- **[Superstore Sales and Profit Analysis Dashboard](https://github.com/sivapavithran93/Superstore-Sales-and-Profit-Analysis-Dashboard):** Created an interactive dashboard to analyze and visualize sales and profit data from the Superstore Dataset, enabling stakeholders to make data-driven decisions and improve business insights.
-- **[Covid-19 Outbreak Analysis and Visualization Dashboard for India](https://github.com/sivapavithran93/Covid-19-Outbreak-Analysis-and-Visualization-Dashboard-for-India):** Created a comprehensive dashboard to analyze and visualize Covid-19 data in India, providing actionableinsights for stakeholders to track the spread of the pandemic and inform their response. 
-- **[Netflix Data Exploration](https://github.com/sivapavithran93/Netflix-Data-Exploration):** Analyzing Netflix’s dataset to uncover viewing patterns, popular genres, and user preferences using Python libraries such as Pandas and Matplotlib.
-- **[Aerofit Business Case Study Descriptive Statistics & Probability](https://github.com/sivapavithran93/Aerofit-Business-Case-Study-Descriptive-Statistics-Probability):** Developing customer profiles for AeroFit treadmill users to optimize marketing strategies and increase conversion rates using Python.
-- **[Walmart Black Friday Customer Purchase Analysis](https://github.com/sivapavithran93/Walmart-Black-Friday-Customer-Purchase-Analysis):** Analyzing Walmart’s transaction data to guide targeted marketing strategies and optimize revenue estimates using statistical methods.
 - **[Yulu Business Case Study - Hypothesis Testing](https://github.com/sivapavithran93/Yulu-Business-Case-Study---Hypothesis-Testing):** Conducting hypothesis testing on Yulu’s bike-sharing data to evaluate business strategies and operational decisions using statistical analysis.
+- **[Walmart Black Friday Customer Purchase Analysis](https://github.com/sivapavithran93/Walmart-Black-Friday-Customer-Purchase-Analysis):** Analyzing Walmart’s transaction data to guide targeted marketing strategies and optimize revenue estimates using statistical methods.
+- **[Aerofit Business Case Study Descriptive Statistics & Probability](https://github.com/sivapavithran93/Aerofit-Business-Case-Study-Descriptive-Statistics-Probability):** Developing customer profiles for AeroFit treadmill users to optimize marketing strategies and increase conversion rates using Python.
+- **[Netflix Data Exploration](https://github.com/sivapavithran93/Netflix-Data-Exploration):** Analyzing Netflix’s dataset to uncover viewing patterns, popular genres, and user preferences using Python libraries such as Pandas and Matplotlib.
+- **[Covid-19 Outbreak Analysis and Visualization Dashboard for India](https://github.com/sivapavithran93/Covid-19-Outbreak-Analysis-and-Visualization-Dashboard-for-India):** Created a comprehensive dashboard to analyze and visualize Covid-19 data in India, providing actionableinsights for stakeholders to track the spread of the pandemic and inform their response.
+- **[Superstore Sales and Profit Analysis Dashboard](https://github.com/sivapavithran93/Superstore-Sales-and-Profit-Analysis-Dashboard):** Created an interactive dashboard to analyze and visualize sales and profit data from the Superstore Dataset, enabling stakeholders to make data-driven decisions and improve business insights.
+- **[Brazilian Retailer Data Analysis Project](https://github.com/sivapavithran93/Brazilian-Retailer-Data-Analysis):** Analyzing Brazil’s e-commerce data to identify trends, customer behavior, and potential business opportunities using advanced statistical methods and data visualization tools.
+- **[Danny's Dinner Data Analysis Project Using SQL](https://github.com/sivapavithran93/Danny-s-Diner-Case-Study-Using-SQL):** Analyzing customer behavior and sales data from Danny's Diner to uncover spending patterns, popular menu items, and loyalty program insights, using SQL queries to drive business decisions and enhance customer experience.
+ 
+
+
 ## 📫 Contact Me
 
 Feel free to reach out to me through any of the following platforms:
