@@ -54,7 +54,7 @@ Here are a few projects I've worked on:
 - **[Superstore Sales and Profit Analysis Dashboard](https://github.com/sivapavithran93/Superstore-Sales-and-Profit-Analysis-Dashboard):** Created an interactive dashboard to analyze and visualize sales and profit data from the Superstore Dataset, enabling stakeholders to make data-driven decisions and improve business insights.
 - **[Brazilian Retailer Data Analysis Project](https://github.com/sivapavithran93/Brazilian-Retailer-Data-Analysis):** Analyzing Brazil’s e-commerce data to identify trends, customer behavior, and potential business opportunities using advanced statistical methods and data visualization tools.
 - **[Danny's Dinner Data Analysis Project Using SQL](https://github.com/sivapavithran93/Danny-s-Diner-Case-Study-Using-SQL):** Analyzing customer behavior and sales data from Danny's Diner to uncover spending patterns, popular menu items, and loyalty program insights, using SQL queries to drive business decisions and enhance customer experience.
- 
+- **[Online Book Store - SQL Analysis](https://github.com/sivapavithran93/Online-Book-Store-Project-Using-SQL/tree/main):** Analyzing book inventory, customer data, and order transactions using SQL. Key queries include identifying top-selling books, calculating total revenue, and tracking customer spending patterns to optimize inventory and drive business decisions.
 
 
 ## 📫 Contact Me
